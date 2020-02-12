@@ -4,7 +4,7 @@ FSJS project 2 - List Filter and Pagination
 ******************************************/
 
 /*** 
- 
+ Going for meeting the expectations. No code for exceeds expectations.
 ***/
 
 const listItems = document.querySelectorAll(".student-item");
