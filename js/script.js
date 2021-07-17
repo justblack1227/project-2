@@ -1,12 +1,3 @@
-/******************************************
-Treehouse Techdegree:
-FSJS project 2 - List Filter and Pagination
-******************************************/
-
-/*** 
- Going for meeting the expectations. No code for exceeds expectations.
-***/
-
 const listItems = document.querySelectorAll(".student-item");
 const pageItems = 10;
 
@@ -74,4 +65,4 @@ function appendPageLinks(list) {
 showPage(listItems, 1);
 appendPageLinks(listItems)
 
-// Remember to delete the comments that came with this file, and replace them with your own code comments.
+
