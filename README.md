@@ -1,4 +1,4 @@
-# Project 2 
+# List Filter and Pagination App
 
 This project shows code for list pagination and filtering. 
 
